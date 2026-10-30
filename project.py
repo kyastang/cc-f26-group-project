@@ -143,4 +143,5 @@ def generate_poster():
   
   
   t.done()
+  t.saveSVG("poster.svg")
 
