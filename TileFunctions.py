@@ -219,4 +219,5 @@ def draw_sarah_tile(t, x, y, size, rotation, palette, tile_type="center"):
   t.pencolor((0, 0, 0))
 
 
+# This line at the end makes a list with everyone's functions
 tile_functions = [draw_sarah_tile]
