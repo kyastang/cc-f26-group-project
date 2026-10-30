@@ -1,2 +1,2 @@
-# cc-group-project
+# F26GroupProject
 Fall 2026 Creative Coding (Pratt) Group Project - Instructor Version
