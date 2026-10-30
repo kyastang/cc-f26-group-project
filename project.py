@@ -39,8 +39,6 @@ def generate_poster():
   else:
     palette = palette_options[p_name]
   
-  print("Success! Now generating your poster...")
-  
   screen_width = 1000
   screen_height = 500
   
