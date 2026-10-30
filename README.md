@@ -10,7 +10,7 @@ README.md is a Markdown file that shows up as a description in your GitHub repo.
 
 ## About the Project
 
-[Write a short description (approximately 100–150 words) of your project. What was the idea behind your poster generator? What visual qualities or design ideas inspired it? How does the program combine everyone's individual tile designs into a unified composition?]
+[Write a short description of your project. What was the idea behind your poster generator? What visual qualities or design ideas inspired it? How does the program combine everyone's individual tile designs into a unified composition?]
 
 ## The Design
 
@@ -42,9 +42,8 @@ Click below to open the notebook in Google Colab and generate your own poster!
 - `TileFunctions.py` – Collection of custom tile-drawing functions.
 - `PaletteOptions.py` – Available color palettes.
 - `requirements.txt` – Required Python libraries.
-- `poster.png` – Final poster image.
-- `poster.svg` – Scalable vector version of the poster.
-- `[notebook].ipynb` – Notebook for running the generator.
+- `poster.svg` – Scalable vector version of the final poster image (example).
+- `Poster Generator.ipynb` – Notebook for running the generator.
 
 ## Individual Reflections
 
