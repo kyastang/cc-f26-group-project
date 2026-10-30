@@ -10,11 +10,11 @@ README.md is a Markdown file that shows up as a description in your GitHub repo.
 
 ## About the Project
 
-[Write a description of your project. What was the idea behind your poster generator? What visual qualities or design ideas inspired it? How does the program combine everyone's individual tile designs into a unified composition?]
+[Write a short description of your project. What was the idea behind your poster generator? What visual qualities or design ideas inspired it? How does the program combine everyone's individual tile designs into a unified composition?]
 
-## The Design
+## The Interface
 
-Our poster generator creates a grid of geometric tiles using a collection of custom-designed functions. Each tile can be rotated, colored, and positioned according to its location in the grid. Users can choose the dimensions of the poster and select from a collection of color palettes, or generate a random palette.
+What can the users modify?
 
 ## Meet the Designers
 
