@@ -1,9 +1,11 @@
 from ColabTurtlePlus.Turtle import *
 import numpy as np
 
+# Import your own code from TileFunctions.py and PaletteOptions.py
 from TileFunctions import *
 from PaletteOptions import *
 
+# Create one function to handle everything.
 def generate_poster():
   title_text = input("Enter a title for your poster: ")
   
