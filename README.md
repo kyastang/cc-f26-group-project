@@ -1,3 +1,5 @@
+README.md is a Markdown file that shows up as a description in your GitHub repo. Here we include instructions for anyone to run the code. Edit this file with your own names and text.
+
 # [Project Title]
 
 ![Example final poster](poster.svg)
