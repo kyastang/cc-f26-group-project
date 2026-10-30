@@ -25,7 +25,7 @@ Our poster generator creates a grid of geometric tiles using a collection of cus
 
 ## Try it yourself
 
-Copy this code into a Colab Notebook!
+Copy this code into a Colab Notebook.
 
 ```python
 !git clone https://github.com/sarahchase/cc-f26-group-project.git
