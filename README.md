@@ -10,7 +10,7 @@ README.md is a Markdown file that shows up as a description in your GitHub repo.
 
 ## About the Project
 
-[Write a short description of your project. What was the idea behind your poster generator? What visual qualities or design ideas inspired it? How does the program combine everyone's individual tile designs into a unified composition?]
+[Write a description of your project. What was the idea behind your poster generator? What visual qualities or design ideas inspired it? How does the program combine everyone's individual tile designs into a unified composition?]
 
 ## The Design
 
