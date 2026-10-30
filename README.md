@@ -23,11 +23,22 @@ Our poster generator creates a grid of geometric tiles using a collection of cus
 - **[Student 3]:** [Brief description of their tile designs or contribution.]
 - **[Student 4]:** [Brief description of their tile designs or contribution.]
 
-## Try the Poster Generator
+## Try it yourself
 
-Click below to open the notebook in Google Colab and generate your own poster!
+Copy this code into a Colab Notebook!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](PASTE_COLAB_NOTEBOOK_URL_HERE)
+```python
+!git clone https://github.com/sarahchase/cc-f26-group-project.git
+%cd cc-f26-group-project
+!pip install -r requirements.txt
+
+from project import generate_poster
+generate_poster()
+```
+
+Or click below to open an example notebook in Google Colab and generate your own poster!
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iho7fD12AxIXqKzoNI5bAI-NxnKauBgz?usp=sharing)
 
 ### How to Use
 
