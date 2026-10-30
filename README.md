@@ -31,7 +31,6 @@ Copy this code into a Colab Notebook.
 !git clone https://github.com/sarahchase/cc-f26-group-project.git
 %cd cc-f26-group-project
 !pip install -r requirements.txt
-
 from project import generate_poster
 generate_poster()
 ```
