@@ -148,5 +148,5 @@ def generate_poster():
   t.done()
 
   # Save the poster as an SVG file
-  saveSVG("poster.svg")
+  saveSVG("/content/poster.svg")
 
