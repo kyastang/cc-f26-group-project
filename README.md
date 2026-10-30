@@ -1,7 +1,5 @@
 # [Project Title]
 
-![Example of the final poster](poster.svg)
-
 **Created by:** [Student 1], [Student 2], [Student 3], [Student 4]  
 **Course:** Creative Coding, Pratt Institute  
 **Semester:** Fall 2026
