@@ -20,3 +20,4 @@ palette_names = list(palette_options)
 
 # Add a random palette option.
 palette_names.append("random")
+
